@@ -9,4 +9,10 @@ Added slicers & filters for dynamic user interaction
 Improved dashboard layout, formatting, and storytelling
 
 📊 Tools Used: 
-Power BI | Power Query | DAX | Data Visualization
+Microsoft Power BI (Dashboard Development & Reporting)
+Power Query (Data Cleaning, Transformation, ETL)
+DAX (Data Analysis Expressions) (Calculated Measures & KPIs like Total Sales, Avg Sales, Total Items, Ratings)
+Data Modeling (Star Schema, Relationships, Fact & Dimension Tables)
+Interactive Visualizations (Cards, Bar Charts, Line Charts, Matrix, KPI visuals)
+Slicers & Filters (Dynamic user-driven insights)
+Excel/CSV Dataset (Data Source for analysis)
